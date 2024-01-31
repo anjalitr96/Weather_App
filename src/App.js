@@ -30,7 +30,7 @@ function App() {
 
 
   return (
-    <div className="App" class="flex flex-col justify-center items-center pt-52 bg-cyan-300 pb-64">
+    <div className="App" class="flex flex-col justify-center items-center pt-40 bg-cyan-300 pb-64">
         <h1 class="font-bold text-orange-600 pb-8 text-2xl">My weather App</h1>
         <img class="w-80 pb-8 rounded-lg" alt="weather_img" src='https://lh3.googleusercontent.com/ZcuuJFjzq62BKHGK2YZaTsoqQ6Dvkrk35qXvMihmbk0cHsIp0OUgIZr0FfsoRHxHJE6QcBWQCQXzMl7e79fusG8yWiWq6XOyySuFCw=h200-rw' />
       <div class="flex flex-col justify-between items-center md:flex-row justify-center items-center  ">
